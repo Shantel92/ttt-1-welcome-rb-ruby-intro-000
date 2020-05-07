@@ -7,7 +7,7 @@ describe "lib/welcome.rb" do
 end
 
 
-# well the file welcome to Tic Tac Toe! should have something do with weclome to Tic Tac Toe!
+# well the file lib/welcome.rb should have something do with weclome to Tic Tac Toe!
 
 
 # 1. Say hello.
